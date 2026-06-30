@@ -1,8 +1,8 @@
 # Hi there, I'm building in public 👋
 
 <p align="left">
-  🛠️ currently hacking on <strong>chrome extensions</strong> & <strong>browser automation</strong> tools<br>
   🎓 cs student at <strong>Beihang University</strong> (北京航空航天大学)<br>
+  🛠️ currently hacking on <strong>chrome extensions</strong> & <strong>browser automation</strong> tools<br>
   📝 learning to ship fast, shipping to learn
 </p>
 
