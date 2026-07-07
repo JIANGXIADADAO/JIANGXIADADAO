@@ -9,8 +9,7 @@
 
 <p align="left">
   <a href="https://x.com/LiaoLeonar47885"><strong>X/Twitter</strong></a> — daily build log &nbsp;•&nbsp;
-  <a href="https://github.com/JIANGXIADADAO"><strong>GitHub</strong></a> — all projects &nbsp;•&nbsp;
-  <a href="mailto:your-email@example.com"><strong>Email</strong></a> — reach me
+  <a href="https://github.com/JIANGXIADADAO"><strong>GitHub</strong></a> — all projects
 </p>
 
 ---
